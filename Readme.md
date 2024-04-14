@@ -20,7 +20,7 @@ The label or target variable is:
 - TensorFlow 2.x
 - Pandas
 - Numpy
-- Matplotlib (for plotting)
+
 
 ## Setup Instructions
 1. Clone the repository to your local machine.
